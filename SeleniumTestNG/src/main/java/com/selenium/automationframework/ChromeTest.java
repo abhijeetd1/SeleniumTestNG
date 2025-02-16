@@ -3,6 +3,7 @@ package com.selenium.automationframework;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+/* Test Class */
 public class ChromeTest {
  
 	public static void main(String[] args) {
